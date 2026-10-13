@@ -3,3 +3,5 @@ payload:
   - DOMAIN-SUFFIX,long.xyz
   - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,aicoinstorge.com
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,binance.com
